@@ -9,7 +9,7 @@ body {
     margin-left: 2px;
     border: 4px solid lightslategray;
     position: relative;
-    background-image: linear-gradient(to top left, purple, white);
+    background-image: linear-gradient(to top left, lightslategray, white);
 }
 
 #foto {
