@@ -5,9 +5,8 @@ body {
 }
 
 .perfil {
-    width: 80%;
-    height: 380px;
-    margin: 0 auto;
+    width: 600px;
+    margin-left: 2px;
     border: 2px solid lightslategray;
     position: relative;
 }
@@ -18,6 +17,7 @@ body {
     transform: translatex(-50%);
 
 }
+
 
 h1, h2, h3 {
     text-align: center;
@@ -37,7 +37,7 @@ h3 {
 
 ul {
     list-style: none;
-    position: absolute;
+    position: relative;
     margin: 0px;
 }
 
