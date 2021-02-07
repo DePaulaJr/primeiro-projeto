@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body {
+    width: 100%;
+}
+
+.perfil {
+    width: 80%;
+    height: 380px;
+    margin: 0 auto;
+    border: 2px solid lightslategray;
+    position: relative;
+}
+
+#foto {
+    position: relative;
+    left: 50%;
+    transform: translatex(-50%);
+
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 30px;
+    }
+
+h3 {
+    font-size: 30px;
+    }
+
+ul {
+    list-style: none;
+    position: absolute;
+    margin: 0px;
+}
+
