@@ -2,12 +2,13 @@
 
 body {
     width: 100%;
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(85, 84, 85));
 }
 
 .perfil {
     width: 600px;
     margin-left: 2px;
-    border: 2px solid lightslategray;
+    border: 4px solid lightslategray;
     position: relative;
 }
 
